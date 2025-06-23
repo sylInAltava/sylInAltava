@@ -1,8 +1,8 @@
-
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sylInAltava&utm_content=line">
+<a href="https://www.gitanimals.org/">
   <img
-    src="https://render.gitanimals.org/lines/sylInAltava"
+    src="https://render.gitanimals.org/guilds/724820822154906486/draw"
     width="600"
-    height="120"
+    height="300"
+    alt="gitanimals"
   />
 </a>
